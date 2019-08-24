@@ -1,0 +1,2 @@
+-pelos testes apenas com o arduino o programa trabalha bem só até 172º como angulo de ativação
+obs: tem que ver como vai se comportar com o circuito
